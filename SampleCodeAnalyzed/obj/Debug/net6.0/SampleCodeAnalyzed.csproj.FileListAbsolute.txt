@@ -1,0 +1,15 @@
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\SampleCodeAnalyzed.csproj.AssemblyReference.cache
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\SampleCodeAnalyzed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\SampleCodeAnalyzed.AssemblyInfoInputs.cache
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\SampleCodeAnalyzed.AssemblyInfo.cs
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\SampleCodeAnalyzed.csproj.CoreCompileInputs.cache
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\bin\Debug\net6.0\SampleCodeAnalyzed.exe
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\bin\Debug\net6.0\SampleCodeAnalyzed.deps.json
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\bin\Debug\net6.0\SampleCodeAnalyzed.runtimeconfig.json
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\bin\Debug\net6.0\SampleCodeAnalyzed.dll
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\bin\Debug\net6.0\SampleCodeAnalyzed.pdb
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\SampleCodeAnalyzed.dll
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\refint\SampleCodeAnalyzed.dll
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\SampleCodeAnalyzed.pdb
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\SampleCodeAnalyzed.genruntimeconfig.cache
+C:\Users\yaryo\source\repos\SampleCodeAnalyzed\SampleCodeAnalyzed\obj\Debug\net6.0\ref\SampleCodeAnalyzed.dll
